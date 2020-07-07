@@ -1,0 +1,27 @@
+@media screen and (max-width: 720px) {
+
+	.btn_top {
+		visibility: hidden;
+	}
+
+	.btn_top {
+		opacity: 0.4;
+	}
+
+	.btn_top:hover {
+		opacity: 1;
+	}
+
+	.nav_footer {
+		margin-bottom: 20px;
+	}
+
+	.name {
+		margin-top: 90px;
+	}
+
+	.name h1 {
+		margin: 0 7px;
+	}
+}
+
